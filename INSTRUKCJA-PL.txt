@@ -1,0 +1,14 @@
+NET AI STUDIO — INSTRUKCJA
+
+1. Rozpakuj archiwum.
+2. Otwórz repozytorium GitHub Gadziaczek05/NET.
+3. Dodaj pliki i foldery z archiwum, zachowując ich strukturę.
+4. Połącz repozytorium z Vercel.
+5. W ustawieniach projektu Vercel dodaj zmienną OPENAI_API_KEY.
+6. Wartość klucza pobierz ze swojego konta OpenAI API. Nie wysyłaj klucza nikomu i nie umieszczaj go w plikach repozytorium.
+7. Wdróż projekt.
+
+Ważne:
+• ChatGPT Plus/Free i API OpenAI to osobne usługi rozliczeniowe.
+• Sam klucz API nie oznacza darmowego użycia.
+• W tej wersji AI generuje kod i podgląd HTML. Pełne automatyczne budowanie i publikowanie aplikacji wymaga dalszych modułów.
